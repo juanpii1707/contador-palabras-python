@@ -1,0 +1,8 @@
+Problematica:
+El usuario quiere saber cuantas letras tiene una palabra
+
+Algoritmo:
+
+1. Solicitar al usuario que ingrese una palabra
+2. contar la cantidad de letras de la palabra ingresada.
+3. Mostraremos al usuario la cantidad de letras que tiene la palabra que ingresó.
