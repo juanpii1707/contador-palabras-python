@@ -1,8 +1,19 @@
 Problematica:
 El usuario quiere saber cuantas letras tiene una palabra
 
-Algoritmo:
+Algoritmo 1:
 
 1. Solicitar al usuario que ingrese una palabra
 2. contar la cantidad de letras de la palabra ingresada.
 3. Mostraremos al usuario la cantidad de letras que tiene la palabra que ingresó.
+
+-----------------------------------------------------------------
+Problematica: "El usuario quiere saber cúal es el área de un circulo teniendo el radio"
+
+Algoritmo 2:
+
+1. Solicitar al usuario que ingrese el radio del circulo.
+2. Calcular el área del circulo usando la fórmula: área = pi * radio^2.
+3.  Mostrar al usuario el área calculada.
+
+-----------------------
